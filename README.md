@@ -156,13 +156,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - Ethiopian Orthodox Tewahedo Church for the sacred texts
-- Traditional Ethiopian music and chanting heritage
 - Open source community for the tools and libraries used
 
-## 📞 Support
 
-For questions or support, please [open an issue](https://github.com/your-username/psalm-reading-app/issues) on GitHub.
-
----
 
 *May the words of the Psalms bring peace and wisdom to your daily life.* ✝️
